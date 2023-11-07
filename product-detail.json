@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "message": "Product retrieved successfully",
+    "data": {
+        "id": 1,
+        "name": "Product A",
+        "description": "Sample description for Product A",
+        "price": 10,
+        "shipping_charge": 2,
+        "packing_charge": 1,
+        "postage_charge": 2.5,
+        "sale_tax": 1.2,
+        "image_url": "https://www.floraqueen.com/_ipx/q_100&s_480x480/https://fq-products.s3.eu-west-1.amazonaws.com/480x480/63e7658fb028e875274407.jpg",
+        "created_at": "2023-11-06T11:44:33.000000Z",
+        "updated_at": "2023-11-06T11:44:33.000000Z"
+    }

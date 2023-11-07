@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "message": "Products retrieved successfully",
+    "data": [
+        {
+            "id": 1,
+            "name": "Product A",
+            "description": "Sample description for Product A",
+            "price": 10,
+            "shipping_charge": 2,
+            "packing_charge": 1,
+            "postage_charge": 2.5,
+            "sale_tax": 1.2,
+            "image_url": "https://www.floraqueen.com/_ipx/q_100&s_480x480/https://fq-products.s3.eu-west-1.amazonaws.com/480x480/63e7658fb028e875274407.jpg",
+            "created_at": "2023-11-06T11:44:33.000000Z",
+            "updated_at": "2023-11-06T11:44:33.000000Z"
+        },
+        {
+            "id": 2,
+            "name": "Product B",
+            "description": "Sample description for Product B",
+            "price": 8,
+            "shipping_charge": 1.5,
+            "packing_charge": 0.75,
+            "postage_charge": 1.8,
+            "sale_tax": 0.96,
+            "image_url": "https://d1mxm3s28igxxe.cloudfront.net/480x480wp/631f16ca05215931498711.webp",
+            "created_at": "2023-11-06T11:44:33.000000Z",
+            "updated_at": "2023-11-06T11:44:33.000000Z"
+        },
+        {
+            "id": 3,
+            "name": "Product C",
+            "description": "Sample description for Product C",
+            "price": 12,
+            "shipping_charge": 2.5,
+            "packing_charge": 1.25,
+            "postage_charge": 2,
+            "sale_tax": 1.44,
+            "image_url": "https://d1mxm3s28igxxe.cloudfront.net/480x480wp/63a19913a09c7753614334.webp",
+            "created_at": "2023-11-06T11:44:33.000000Z",
+            "updated_at": "2023-11-06T11:44:33.000000Z"
+        }
+    ]
+}
